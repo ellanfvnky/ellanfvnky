@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Ellan Fvnky
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Independent+Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Bots%2C+Web+Platforms+%26+Desktop+Apps;Open+Source+%26+Self-Directed+Projects;Always+Shipping+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Independent+Full-Stack+Developer;React+%7C+Electron+%7C+Python;Rentals%2C+E-Commerce+%26+Desktop+Tools;Open+Source+%26+Self-Directed+Projects;Always+Shipping+Something+New" alt="Typing SVG" />
 
 <p>
-Independent developer from Indonesia 🇮🇩 — turning ideas into shipped products across web platforms, WhatsApp bots, and cross-platform desktop apps.
+Independent developer from Indonesia 🇮🇩 — building rental platforms, e-commerce storefronts, and cross-platform desktop tools.
 </p>
 
 <p>
@@ -32,15 +32,16 @@ Independent developer from Indonesia 🇮🇩 — turning ideas into shipped pro
 const ellan = {
   role: "Independent Full-Stack Developer",
   location: "Lampung, Indonesia 🇮🇩",
-  specialties: ["Web Platforms", "WhatsApp/Discord Bots", "Cross-Platform Desktop Apps"],
-  currentlyBuilding: [
-    "9Router — VPS proxy for AI model access (Claude Code, Kiro AI)",
-    "BeatVault — full-stack music marketplace"
+  projects: [
+    "Vatra Outdoor — outdoor gear rental platform",
+    "Ellan Fvnky Store — music sales storefront",
+    "MediaFlow — cross-platform media downloader/converter"
   ],
-  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vite"],
-  backend: ["Node.js", "FastAPI (Python)", "Prisma ORM", "Baileys"],
-  database: ["PostgreSQL", "Cloudflare R2"],
-  platforms: ["Electron (Desktop)", "Capacitor (Android)"],
+  stack: {
+    frontend: ["React", "Tailwind CSS", "Vite"],
+    backend: ["FastAPI (Python)"],
+    platforms: ["Electron (Desktop)", "Android (Capacitor)"]
+  },
   approach: "Solo builder — design, code, ship, and maintain end to end"
 }
 ```
@@ -49,9 +50,8 @@ const ellan = {
 
 # 🎯 Current Focus
 
-- 🔀 Building **9Router**, a VPS-based proxy for AI model access across multiple machines
-- 🎵 Growing **BeatVault**, a full-stack music marketplace built with Next.js, Prisma, and Midtrans
-- 🤖 Maintaining custom WhatsApp bot platforms — **VATRA-BOT** and a WhatsApp ↔ Discord bridge
+- 🏕 Running **Vatra Outdoor**, a rental platform for tents and outdoor gear
+- 🎵 Building **Ellan Fvnky Store**, a storefront for selling music
 - 🎬 Evolving **MediaFlow** into a polished desktop + Android media toolkit
 - ⚡ Shipping independent projects end to end, from idea to deployment
 
@@ -60,7 +60,7 @@ const ellan = {
 # 🛠 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vite,nodejs,fastapi,tailwind,prisma,postgres,electron,git,github,linux,cloudflare&perline=6" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=js,python,react,vite,tailwind,electron,fastapi,androidstudio,git,github,linux&perline=6" alt="Tech stack"/>
 </div>
 
 ---
@@ -98,11 +98,9 @@ const ellan = {
 
 | Project | Description |
 |---|---|
-| 🎵 **BeatVault** | Full-stack music marketplace — Next.js 15, PostgreSQL, Prisma, Cloudflare R2, Midtrans |
+| 🏕 **Vatra Outdoor** | Rental platform for tents and outdoor gear |
+| 🎵 **Ellan Fvnky Store** | Storefront for selling music |
 | 🎬 **[MediaFlow](https://github.com/ellanfvnky/MediaFlow)** | Cross-platform media downloader/converter — Electron + React desktop, React + Capacitor Android |
-| 🤖 **VATRA-BOT** | Fully customized WhatsApp bot platform built on the neoxr-bot framework |
-| 🔗 **wa-discord-bot** | WhatsApp ↔ Discord bridge bot with a companion Electron dashboard app |
-| 🔀 **9Router** | VPS proxy routing AI model access (Claude Code, Kiro AI) across machines |
 
 ---
 
