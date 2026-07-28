@@ -66,31 +66,10 @@ const ellan = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ellanfvnky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellanfvnky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</div>
-
-<div align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=ellanfvnky&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellanfvnky&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ellanfvnky&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
 </div>
 
 ---
